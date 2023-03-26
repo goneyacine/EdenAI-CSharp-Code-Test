@@ -1,0 +1,29 @@
+
+.vscode/launch.json
+.vscode/tasks.json
+bin/Debug/net6.0/EdenAI CSharp Code Test.deps.json
+*.dll
+*.exe
+bin/Debug/net6.0/EdenAI CSharp Code Test.runtimeconfig.json
+bin/Debug/net6.0/publish/EdenAI CSharp Code Test.deps.json
+bin/Debug/net6.0/publish/EdenAI CSharp Code Test.pdb
+bin/Debug/net6.0/publish/EdenAI CSharp Code Test.runtimeconfig.json
+bin/Debug/net6.0/EdenAI CSharp Code Test.pdb
+obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+obj/Debug/net6.0/EdenAI CSharp Code Test.AssemblyInfo.cs
+obj/Debug/net6.0/EdenAI CSharp Code Test.AssemblyInfoInputs.cache
+obj/Debug/net6.0/EdenAI CSharp Code Test.assets.cache
+obj/Debug/net6.0/EdenAI CSharp Code Test.csproj.AssemblyReference.cache
+obj/Debug/net6.0/EdenAI CSharp Code Test.csproj.CopyComplete
+obj/Debug/net6.0/EdenAI CSharp Code Test.csproj.CoreCompileInputs.cache
+obj/Debug/net6.0/EdenAI CSharp Code Test.csproj.FileListAbsolute.txt
+obj/Debug/net6.0/EdenAI CSharp Code Test.GeneratedMSBuildEditorConfig.editorconfig
+obj/Debug/net6.0/EdenAI CSharp Code Test.genruntimeconfig.cache
+obj/Debug/net6.0/EdenAI CSharp Code Test.GlobalUsings.g.cs
+obj/Debug/net6.0/EdenAI CSharp Code Test.pdb
+obj/Debug/net6.0/PublishOutputs.77dcd1bfa8.txt
+obj/EdenAI CSharp Code Test.csproj.nuget.dgspec.json
+obj/EdenAI CSharp Code Test.csproj.nuget.g.props
+obj/EdenAI CSharp Code Test.csproj.nuget.g.targets
+obj/project.assets.json
+obj/project.nuget.cache
